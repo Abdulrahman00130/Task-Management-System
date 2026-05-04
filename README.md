@@ -49,5 +49,8 @@ The system provides a robust RESTful API. Key endpoint categories include:
 * `/api/teams/*` - Team creation, member invites, and role management.
 * `/api/notifications/*` - SignalR hub endpoints for real-time data broadcasting.
 
+📈 Progress
+[] Phase 0: Project Foundation
+
 ## 🚀 Getting Started
 *(Instructions on how to set up the project locally using Docker/CLI will be added here as the CI/CD pipeline is finalized.)*
