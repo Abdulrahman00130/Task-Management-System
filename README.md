@@ -26,6 +26,7 @@ A robust web application designed for comprehensive team collaboration, task tra
 * **Workspaces:** Users can create dedicated teams and automatically become Team Admins.
 * **Role-Based Access Control (RBAC):** Admins can assign specific roles and authorities to team members.
 * **Delegation:** Authorized members can assign tasks to individuals or groups within the team.
+* **Individual Tasking:** Individual users can create tasks for themselves (self-assigned tasks).
 
 ### ✅ Advanced Task Tracking
 * **Comprehensive Details:** Track tasks by Title, Description, Due Date, Status, and Priority.
